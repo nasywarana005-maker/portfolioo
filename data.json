@@ -1,0 +1,66 @@
+{
+    "home": {
+      "name": "Nasywa Rana Maheswari",
+      "title": "Electronic Engineering",
+      "description": "Click the menu above to view my profile, education, experience, projects, and contact information."
+    },
+  
+    "about": {
+      "description": "Electronic Engineering graduate specializing in automation and smart systems, with a strong foundation in microcontrollers, PLCs, and IoT technologies. 
+      Skilled in system integration, HMI development, and industrial troubleshooting, with a proven ability to transform technical concepts into practical and reliable solutions. Passionate about innovation, continuous improvement, and engineering excellence.."
+    },
+  
+    "education": [
+      {
+        "school": "SEMARANG STATE POLYTECHNIC",
+        "major": "Electronic Engineering",
+        "year": "2023 - 2026",
+        "logo": "images/polines-logo.jpg.png"
+      },
+  
+      {
+        "school": "STATE SENIOR HIGH SCHOOL PEKALONGAN",
+        "major": "SCIENCES",
+        "year": "2021 - 2023",
+        "logo": "images/logoman.jpg.jpg"
+      }
+    ],
+  
+    "skills": [
+      "HTML",
+      "Arduino IDE",
+      "HMI",
+      "Ms. Office",
+      "Canva",
+      "Mikrokontroller",
+      "HTML"
+    ],
+  
+    "experience": [
+      {
+        "position": "Frontend Developer Intern",
+        "company": "CV. Rekayasa Desain Manufaktur",
+        "year": "2025"
+      
+      }
+    ],
+  
+    "projects": [
+      {
+        "title": "Portfolio Website",
+        "image": "images/project1.jpg"
+      },
+  
+      {
+        "title": "Company Profile",
+        "image": "images/project2.jpg"
+      }
+    ],
+  
+    "contact": {
+      "phone": "082225207670",
+      "email": "nasywarana005@gmail.com",
+      "instagram": "@nasywaaran_",
+      "linkedin": "linkedin.com/in/nasywarana"
+    }
+  }
